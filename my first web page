@@ -3,7 +3,7 @@
         <title>my web page</title>
     </head>
     <body>
-        <img src="./one.jpg">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjyWouiPHFwiPWshIbGXRyREYSICyWWmDt-TyYvLQc&s">
         <a href="./index.html">home</a>
         <a href="./about.html">about</a>
          <a href="./service.html">service</a>
